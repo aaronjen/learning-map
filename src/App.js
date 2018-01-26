@@ -5,10 +5,9 @@ class App extends Component {
     render() {
         return (
             <div>
-                Hello world
+                <p>Learning map</p>
                 <Graph></Graph>
             </div>
-
         );
     }
 }
